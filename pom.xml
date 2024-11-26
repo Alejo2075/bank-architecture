@@ -12,22 +12,22 @@
     </parent>
 
     <groupId>org.alejo2075</groupId>
-    <artifactId>algorithmic-trading</artifactId>
+    <artifactId>us-open-bank-architecture</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>algorithmic-trading</name>
-    <description>Architecture for a algorithmic trading.</description>
+    <name>us-open-bank-architecture</name>
+    <description>A modular and scalable bank architecture designed specifically for the United States, focusing on open
+        banking principles, regulatory compliance, and seamless financial integration.</description>
+
 
     <modules>
 
-        <module>service-data-ingestion</module>
-        <module>service-algorithmic-strategy</module>
-        <module>service-order-execution</module>
+
 
     </modules>
 
-    <url>https://github.com/alejo2075/algorithmic-trading</url>
+    <url>https://github.com/alejo2075/us-open-bank-architecture</url>
 
     <licenses>
         <license>
@@ -45,9 +45,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/alejo2075/algorithmic-trading.git</connection>
-        <developerConnection>scm:git:ssh://github.com:alejo2075/algorithmic-trading.git</developerConnection>
-        <url>https://github.com/alejo2075/algorithmic-trading</url>
+        <connection>scm:git:git://github.com/alejo2075/us-open-bank-architecture.git</connection>
+        <developerConnection>scm:git:ssh://github.com:alejo2075/us-open-bank-architecture.git</developerConnection>
+        <url>https://github.com/alejo2075/us-open-bank-architecture</url>
     </scm>
 
     <properties>
