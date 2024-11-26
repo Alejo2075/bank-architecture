@@ -12,11 +12,11 @@
     </parent>
 
     <groupId>org.alejo2075</groupId>
-    <artifactId>us-open-bank-architecture</artifactId>
+    <artifactId>bank-architecture</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>us-open-bank-architecture</name>
+    <name>bank-architecture</name>
     <description>A modular and scalable bank architecture designed specifically for the United States, focusing on open
         banking principles, regulatory compliance, and seamless financial integration.</description>
 
@@ -27,7 +27,7 @@
 
     </modules>
 
-    <url>https://github.com/alejo2075/us-open-bank-architecture</url>
+    <url>https://github.com/alejo2075/bank-architecture</url>
 
     <licenses>
         <license>
@@ -45,9 +45,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/alejo2075/us-open-bank-architecture.git</connection>
-        <developerConnection>scm:git:ssh://github.com:alejo2075/us-open-bank-architecture.git</developerConnection>
-        <url>https://github.com/alejo2075/us-open-bank-architecture</url>
+        <connection>scm:git:git://github.com/alejo2075/bank-architecture.git</connection>
+        <developerConnection>scm:git:ssh://github.com:alejo2075/bank-architecture.git</developerConnection>
+        <url>https://github.com/alejo2075/bank-architecture</url>
     </scm>
 
     <properties>
