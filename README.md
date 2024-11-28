@@ -37,5 +37,5 @@
 
 ## 🏛️ Architecture
 
-![Trading Bank.png](docs/images/Trading%20Bank.png)
+![Trading Bank.png](docs/images/Trading%20Banking.png)
 
